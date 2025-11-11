@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elevation-entities/static/css/main.cf4cb395.css",
+    "main.js": "/elevation-entities/static/js/main.45df848f.js",
+    "service-worker.js": "/elevation-entities/service-worker.js",
+    "static/media/ElevationEntities.svg": "/elevation-entities/static/media/ElevationEntities.c58c277b9f8bb8435c48410955dec6ec.svg",
+    "index.html": "/elevation-entities/index.html",
+    "main.cf4cb395.css.map": "/elevation-entities/static/css/main.cf4cb395.css.map",
+    "main.45df848f.js.map": "/elevation-entities/static/js/main.45df848f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf4cb395.css",
+    "static/js/main.45df848f.js"
+  ]
+}
